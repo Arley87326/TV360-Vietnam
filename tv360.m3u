@@ -258,7 +258,7 @@ https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="thvl5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a2/THVL5_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20251206081238&path-prefix=vi", THVL5 HD - Báo và PTTH Vĩnh Long
 https://dethich.pw/thvl5/index.m3u8
 
-#EXTINF:-1 tvg-id="htv1hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png", HTV1
+#EXTINF:-1 tvg-id="htv1hd" group-title="Kênh HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png", HTV1
 https://dethich.pw/htv1/index.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png", HTV2
