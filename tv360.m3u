@@ -154,7 +154,24 @@ https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
 https://vmttv.dpdns.org/tv360/?id=360-anime
 
 #EXTINF:-1 tvg-id="360thieunhi" group-title="Giải trí" tvg-logo="https://i.ibb.co/vCG4RHZP/IMG-2885.webp", 360 Thiêu Nhi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
+
+#EXTINF:-1 tvg-id="360phim4k" group-title="Giải trí" tvg-logo="https://i.ibb.co/G49Jx381/IMG-2886.png", 360 Phim 4K
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-phim-4k
+
+#EXTINF:-1 tvg-id="360c1chauau" group-title="Thể thao" tvg-logo="https://i.ibb.co/yFGgnFr8/IMG-2888.webp", 360 C1 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
+
+#EXTINF:-1 tvg-id="360c2chauau" group-title="Thể thao" tvg-logo="https://i.ibb.co/YFshCnKT/IMG-2889.webp", 360 C2 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
+
+#EXTINF:-1 tvg-id="360c3chauau" group-title="Thể thao" tvg-logo="https://i.ibb.co/wN7RNdwF/IMG-2890.png", 360 C3 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
 
 #EXTINF:-1 tvg-id="hbo" group-title="Kênh quốc tế" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
