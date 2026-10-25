@@ -173,6 +173,26 @@ https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
 
+#EXTINF:-1 tvg-id="360thethaochaua" group-title="Thể thao" tvg-logo="https://i.ibb.co/Vc7vJhpS/IMG-2895.png", 360 Thê Thao Châu Â
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a
+
+#EXTINF:-1 tvg-id="360congthuc1" group-title="Thể thao" tvg-logo="https://i.ibb.co/9RZFRJw/IMG-2891.png", 360 Công Thûc 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1
+
+#EXTINF:-1 tvg-id="360bundesliga" group-title="Thể thao" tvg-logo="https://i.ibb.co/d0w8JMX2/IMG-2892.png", 360 Bundesliga
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-bundesliga
+
+#EXTINF:-1 tvg-id="360golf" group-title="Thể thao" tvg-logo="https://i.ibb.co/FL5NC29d/IMG-2893.webp", 360 Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-golf
+
+#EXTINF:-1 tvg-id="360tennis" group-title="Thể thao" tvg-logo="https://i.ibb.co/JRXXyTMJ/IMG-2894.png", 360 Tennis
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-tennis
+
 #EXTINF:-1 tvg-id="hbo" group-title="Kênh quốc tế" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
