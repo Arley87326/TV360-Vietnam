@@ -373,6 +373,18 @@ https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethao" group-title="Kênh HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV The Thao
 https://dethich.pw/htvthethao/index.m3u8
 
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Kênh HTV" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png", HTVC Gia Ðình
+https://dethich.pw/htvcgiadinh/index.m3u8
+
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="Kênh HTV" tvg-logo="https://i.ibb.co/D0YBJZq/IMG-2900.png", HTVC Phų Nũ
+https://dethich.pw/htvcphunu/index.m3u8
+
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="Kênh HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png", HTVC Thuân Viêt
+https://dethich.pw/htvcthuanviet/index.m3u8
+
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="Kênh HTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/HTVC_Phim_logo.webp/960px-HTVC_Phim_logo.webp", HTVC Phim
+https://dethich.pw/htvcphim/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png", SCTV6
 https://vmttv.dpdns.org/VTVGo/?sctv6
 
@@ -465,10 +477,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=189
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 
 #EXTINF:-1 tvg-id="quangninh3" group-title="Kênh địa phương" tvg-logo="https://i.ytimg.com/vi/cTNt-U1akXw/hq720.jpg", QTV3 HD - Báo và PTTH Quảng Ninh
-https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+https://dethich.pw/quangninh3/index.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H1.jpg", H1 - Báo và PTTH Hà Nội
-https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/hanoi1/index.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H2.jpg", H2 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
