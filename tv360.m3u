@@ -385,6 +385,14 @@ https://dethich.pw/htvcthuanviet/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="Kênh HTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/HTVC_Phim_logo.webp/960px-HTVC_Phim_logo.webp", HTVC Phim
 https://dethich.pw/htvcphim/index.m3u8
 
+#EXTINF:-1 tvg-id="htvcpluschannelbhd" group-title="Kênh HTV" tvg-logo="https://i.ibb.co/BVckCtnc/IMG-2902.png", HTVC+ Channel B
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=132
+
+#EXTINF:-1 tvg-id="htvcdulichcuocsonghd" group-title="Kênh HTV" tvg-logo="https://i.ibb.co/wrLsstBH/IMG-2901.jpg", HTVC Du Lįch & Cuôc Sông
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=htvc-du-lich-cuoc-song
+
 #EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png", SCTV6
 https://vmttv.dpdns.org/VTVGo/?sctv6
 
@@ -414,10 +422,7 @@ https://livebytsctbu.vtvprime.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="ongolf" group-title="Kênh VTV Cab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
-https://livebytsctbu.vtvprime.vn/mean/THETHAO_GOLF_HD/manifest.mpd
+https://vmttv.dpdns.org/tv360/?id=169
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="Kênh VTV Cab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", ON Sports+ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -430,7 +435,8 @@ https://livebytsctbu.vtvprime.vn/mean/HAY_TV/manifest.mpd
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="Kênh VTV Cab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=175
 
 #EXTINF:-1 tvg-id="oncine" group-title="Kênh VTV Cab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
