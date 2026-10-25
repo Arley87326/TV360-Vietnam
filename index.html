@@ -1,0 +1,34 @@
+<!DOCTYPE html> <html lang="vi"> <head> <meta charset="UTF-8"> <meta name="viewport"
+content="width=device-width, initial-scale=1.0"> <title>TV360 Vietnam</title> <style> *{box-sizing:border-
+box} body{margin:0;background:#071426;color:white;font-family:Arial,sans-serif} header{padding:
+20px;background:#10223a;display:flex;justify-content:space-between;align-items:center}
+h1{color:#35d0b0;margin:0;font-size:24px} a{color:#35d0b0} main{padding:20px;max-width:
+1000px;margin:auto} video{width:100%;background:black;border-radius:12px;margin-top:15px}
+input,select{padding:12px;border-radius:8px;border:0;margin:12px 5px 12px 0;max-width:100%}
+  button{background:#142b47;color:white;border:1px solid #35d0b0;border-radius:10px;padding:
+15px;cursor:pointer} button:hover{background:#20516a} .small{color:#aabbd0;font-size:12px} </style> </
+head> <body> <header> <h1>📺 TV360 VIETNAM</h1> <a href="/tv360.m3u" download>Download M3U</
+a> </header> <main> <h2>Truyền hình trực tuyến</h2> <p class="small">Chọn kênh để xem truyền hình.</
+p> <video id="player" controls playsinline></video> <h2>Danh sách kênh</h2> <input id="search"
+placeholder="Tìm kênh truyền hình..."> <select id="category"><option value="">Tất cả danh mục</option></
+select> <div id="channels">Đang tải kênh...</div> </main> <script src="https://cdn.jsdelivr.net/npm/
+hls.js@1"></script> <script> let all=[]; async function start(){ try{ const r=await fetch('/tv360.m3u'); if(!
+r.ok)throw Error('Playlist not found'); const txt=await r.text(); let current=null; txt.split(/\r?
+\n/).forEach(line=>{ line=line.trim(); if(line.startsWith('#EXTINF:')){ let title=line.split(',').pop().trim(); let
+group=(line.match(/group-title="([^"])"/)||[])[1]||'Khác'; let logo=(line.match(/tvg-logo="([^"])"/)||[])[1]||'';
+current={title,group,logo}; }else if(line&&!line.startsWith('#')&&current)
+{ all.push({...current,url:line});current=null; } }); [...new Set(all.map(x=>x.group))].forEach(g=>{ let
+o=document.createElement('option');o.value=g;o.textContent=g;
+document.querySelector('#category').appendChild(o); }); render(); }catch(e)
+{ document.querySelector('#channels').textContent='Không tải được playlist. Hãy kiểm tra tv360.m3u.'; } }
+function render(){ let q=document.querySelector('#search').value.toLowerCase(); let
+g=document.querySelector('#category').value; let
+box=document.querySelector('#channels');box.innerHTML='';
+all.filter(c=>c.title.toLowerCase().includes(q)&&(!g||c.group===g)).forEach(c=>{ let
+b=document.createElement('button'); b.textContent=c.title+' — '+c.group; b.onclick=()=>play(c.url);
+box.appendChild(b); }); } function play(url){ let v=document.querySelector('#player');
+if(window.Hls&&Hls.isSupported()){ if(window.hls)window.hls.destroy(); window.hls=new
+Hls();window.hls.loadSource(url);window.hls.attachMedia(v); window.hls.on(Hls.Events.MANIFEST_PARSED,
+()=>v.play().catch(()=>{})); }else{v.src=url;v.play().catch(()=>{});} }
+document.querySelector('#search').addEventListener('input',render);
+document.querySelector('#category').addEventListener('change',render); start(); </script> </body> </html>
