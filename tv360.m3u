@@ -182,6 +182,9 @@ https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 
+#EXTINF:-1 tvg-id="360doraemon" group-title="Giải trí" tvg-logo="https://i.ibb.co/DHyC8xZM/IMG-2928.webp", 360 Doraemon
+https://vmttv.dpdns.org/tv360/?id=360-doraemon
+
 #EXTINF:-1 tvg-id="360c1chauau" group-title="Thể thao" tvg-logo="https://i.ibb.co/yFGgnFr8/IMG-2888.webp", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
