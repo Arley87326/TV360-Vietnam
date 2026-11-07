@@ -424,6 +424,16 @@ https://vmttv.dpdns.org/tv360/?id=voh-am610
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=voh-fm99
 
+#EXTINF:-1 tvg-id="vohfm87" group-title="Kênh FM" tvg-logo="https://i.ibb.co/pBZB1wXG/IMG-2939.webp", VOH FM87
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=voh-fm87
+
+#EXTINF:-1 tvg-id="vohfm95" group-title="Kênh FM" tvg-logo="https://i.ibb.co/BHY293cG/IMG-2940.webp", VOH FM95
+https://vmttv.dpdns.org/tv360/?id=voh-fm95
+
+#EXTINF:-1 tvg-id="vohfm92radio" group-title="Kênh FM" tvg-logo="https://i.ibb.co/tpNVPNRh/IMG-2941.webp", VOH FM92 Radio
+https://vmttv.dpdns.org/tv360/?id=voh-fm92-radio
+
 #EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png", SCTV6
 https://vmttv.dpdns.org/VTVGo/?sctv6
 
