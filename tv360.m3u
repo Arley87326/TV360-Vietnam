@@ -138,6 +138,9 @@ https://vmttv.dpdns.org/tv360/?id=tv360-15
 #EXTINF:-1 tvg-id="tv360" group-title="Sự kiện trực tiếp" tvg-logo="https://i.postimg.cc/gkWfr1kZ/a5f8181388ab-480-270.png", TV360 Promo
 https://vmttv.dpdns.org/tv360/?id=9904
 
+#EXTINF:-1 tvg-id="livestream01" group-title="Sự kiện trực tiếp" tvg-logo="https://i.ibb.co/W4XnjcYX/IMG-2944.png", Livestream 01
+https://vmttv.dpdns.org/tv360/?id=livestream-01
+
 #EXTINF:-1 tvg-id="360phimviet" group-title="Giải trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
@@ -435,10 +438,10 @@ https://vmttv.dpdns.org/tv360/?id=voh-fm95
 https://vmttv.dpdns.org/tv360/?id=voh-fm92-radio
 
 #EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png", SCTV6
-https://vmttv.dpdns.org/VTVGo/?sctv6
+https://vmttv.dpdns.org/tv360/?id=sctv6
 
 #EXTINF:-1 tvg-id="sctv2" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/8i5DXIg.png", SCTV2
-https://vmttv.dpdns.org/VTVGo/?sctv2
+https://vmttv.dpdns.org/tv360/?id=sctv2-today-tv
 
 #EXTINF:-1 tvg-id= onfootball" group-title="Kênh VTV Cab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -568,3 +571,19 @@ https://vmttv.dpdns.org/tv360/?id=can-tho-1
 #EXTINF:-1 tvg-id="caobang" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/dGonewm.png", Cao Bâng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=cao-bang
+
+#EXTINF:-1 tvg-id="danang1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/EOMuO1z.png", Ðà Nâng 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=da-nang-1
+
+#EXTINF:-1 tvg-id="daklak" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/gFfZvTW.png", Ðâk Lâk
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=dak-lak
+
+#EXTINF:-1 tvg-id="dienbien" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/u308o8q.png", Ðiên Biên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=dien-bien
+
+#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/oQyioVa.png", Ðông Nai 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=dong-nai-1
