@@ -182,8 +182,21 @@ https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 
+#EXTINF:-1 tvg-id="360mrbean" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/360_Mr._Bean.png/revision/latest?cb=20261031105652&path-prefix=vi", 360 Mr. Bean
+#EXTVLOCPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-mr-bean
+
 #EXTINF:-1 tvg-id="360doraemon" group-title="Giải trí" tvg-logo="https://i.ibb.co/DHyC8xZM/IMG-2928.webp", 360 Doraemon
+#EXTVLOCPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
+
+#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/360_S%E1%BB%91ng_Kh%E1%BB%8Fe.png/revision/latest?cb=20261031105839&path-prefix=vi", 360 Sông Khôe
+#EXTVLOCPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-song-khoe
+
+#EXTINF:-1 tvg-id="360chautinhtri" group-title="Giải trí" tvg-logo="https://i.ibb.co/8Lq9mz6w/IMG-2932.webp", 360 Châu Tinh Trì
+#EXTVLOCPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-chau-tinh-tri
 
 #EXTINF:-1 tvg-id="360c1chauau" group-title="Thể thao" tvg-logo="https://i.ibb.co/yFGgnFr8/IMG-2888.webp", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
