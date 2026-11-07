@@ -587,3 +587,19 @@ https://vmttv.dpdns.org/tv360/?id=dien-bien
 #EXTINF:-1 tvg-id="dongnai1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/oQyioVa.png", Ðông Nai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=dong-nai-1
+
+##EXTINF:-1 tvg-id="dongthap1" group-title="Kênh địa phương" tvg-logo="https://i.ibb.co/XFX7yw0/logo2-1.png", Ðông Tháp 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=dong-thap-1
+
+#EXTINF:-1 tvg-id="gialai" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/oUSJX0X.png", Gia Lai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=gia-lai
+
+#EXTINF:-1 tvg-id="hatinh" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/4yIgKKx.png", Hà Tĩnh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=ha-tinh
+
+#EXTINF:-1 tvg-id="haiphong3" group-title="Kênh địa phương" tvg-logo="https://i.ibb.co/3YjV6dX8/IMG-2945.webp", Hâi Phòng 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hai-phong-3
