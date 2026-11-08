@@ -603,3 +603,15 @@ https://vmttv.dpdns.org/tv360/?id=ha-tinh
 #EXTINF:-1 tvg-id="haiphong3" group-title="Kênh địa phương" tvg-logo="https://i.ibb.co/3YjV6dX8/IMG-2945.webp", Hâi Phòng 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=hai-phong-3
+
+#EXTINF:-1 tvg-id="haiphonghd" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/ir6g4hB.png", Hâi Phòng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hai-phong
+
+#EXTINF:-1 tvg-id="cantho2" group-title="Kênh địa phương" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png", Cân Tho 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=can-tho-2
+
+#EXTINF:-1 tvg-id="huetv" group-title="Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png", Hue
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hue
