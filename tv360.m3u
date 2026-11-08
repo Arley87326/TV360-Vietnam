@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_VN.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg/960px-Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg.png", VTV1
 https://dethich.pw/vtv1/index.m3u8
@@ -193,6 +193,10 @@ https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTVLOCPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
 
+#EXTINF:-1 tvg-id="360thamtuconan" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/360_Th%C3%A1m_T%E1%BB%AD_Conan.png/revision/latest?cb=20261031105642&path-prefix=vi", 360 Thám Tû Conan
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-tham-tu-conan
+
 #EXTINF:-1 tvg-id="360songkhoe" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/360_S%E1%BB%91ng_Kh%E1%BB%8Fe.png/revision/latest?cb=20261031105839&path-prefix=vi", 360 Sông Khôe
 #EXTVLOCPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-song-khoe
@@ -200,6 +204,10 @@ https://vmttv.dpdns.org/tv360/?id=360-song-khoe
 #EXTINF:-1 tvg-id="360chautinhtri" group-title="Giải trí" tvg-logo="https://i.ibb.co/8Lq9mz6w/IMG-2932.webp", 360 Châu Tinh Trì
 #EXTVLOCPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-chau-tinh-tri
+
+#EXTINF:-1 tvg-id="360phimkinhdien" group-title="Giải trí" tvg-logo="https://i.ibb.co/G4rzwwjM/IMG-2953.webp", 360 Phim Kinh Ðiên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
 
 #EXTINF:-1 tvg-id="360c1chauau" group-title="Thể thao" tvg-logo="https://i.ibb.co/yFGgnFr8/IMG-2888.webp", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -615,3 +623,11 @@ https://vmttv.dpdns.org/tv360/?id=can-tho-2
 #EXTINF:-1 tvg-id="huetv" group-title="Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png", Hue
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=hue
+
+#EXTINF:-1 tvg-id="hungyenhd" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/TH1DWdm.png", Hûng Yên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hung-yen
+
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/qLMcGPT.png", Khánh Hòa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=khanh-hoa
