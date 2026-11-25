@@ -592,7 +592,7 @@ https://vmttv.dpdns.org/tv360/?id=dien-bien
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=dong-nai-1
 
-##EXTINF:-1 tvg-id="dongthap1" group-title="Kênh địa phương" tvg-logo="https://i.ibb.co/XFX7yw0/logo2-1.png", Ðông Tháp 1
+#EXTINF:-1 tvg-id="dongthap1" group-title="Kênh địa phương" tvg-logo="https://i.ibb.co/XFX7yw0/logo2-1.png", Ðông Tháp 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=dong-thap-1
 
