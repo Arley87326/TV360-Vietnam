@@ -248,7 +248,7 @@ https://vmttv.dpdns.org/tv360/?id=360-tennis
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="CINEMAX.vn" group-title="Kênh quốc tế" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Cinemax_Asia.png/960px-Cinemax_Asia.png", Cinemax
+#EXTINF:-1 tvg-id="CINEMAX.vn" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/NzROY7r.png", Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -276,28 +276,28 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png", DreamWorks
+#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/N69Cori.png", DreamWorks
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="CARTOONNETWORK.vn" group-title="Kênh quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+#EXTINF:-1 tvg-id="CARTOONNETWORK.vn" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png", Cartoon Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="fashiontv" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ucTh9tO.png",  Fashion TV
+#EXTINF:-1 tvg-id="fashiontv" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ALDt1JX.png",  Fashion TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
